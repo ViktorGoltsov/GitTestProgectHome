@@ -8,5 +8,9 @@ public class Second {
         System.out.println("Hi again777555888");
         System.out.println("Hi from Big");
         System.out.println("Hi from small");
+
+        System.out.println("Hi again777555888");
+        System.out.println("Hi from Big");
+        System.out.println("Hi from small");
     }
 }
